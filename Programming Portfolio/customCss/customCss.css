@@ -1,0 +1,66 @@
+.hiddenHome{
+    display:none;
+    visibility:hidden;
+    margin-left:auto;
+    margin-right:auto;
+    width:55%;
+}
+
+.hiddenResume{
+    display:none;
+    visibility:hidden;
+    margin-left:auto;
+    margin-right:auto;
+    width:55%;
+}
+.hiddenPorfolio{
+    display:none;
+    visibility:hidden;
+        margin-left:auto;
+    margin-right:auto;
+    width:55%;
+}
+
+.hiddenContact{
+    display:none;
+    visibility:hidden;
+    margin-left:auto;
+    margin-right:auto;
+    width:55%;
+}
+.shownHome{
+    display:block
+    visibility:visible;
+    margin-left:auto;
+    margin-right:auto;
+    width:55%;
+}
+
+.shownResume{
+    display:block;
+    visibility:visible;
+    margin-left:auto;
+    margin-right:auto;
+    width:55%;
+}
+.shownPortfolio{
+   display:block;
+    visibility:visible;
+    margin-left:auto;
+    margin-right:auto;
+    width:55%;
+}
+
+.shownContact{
+    display:block;
+    visibility:visible;
+    margin-left:auto;
+    margin-right:auto;
+    width:55%;
+}
+.mePic{
+    position:absolute;
+    left:0px;
+    width:300px;
+    
+}
