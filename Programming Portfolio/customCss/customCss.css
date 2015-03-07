@@ -29,11 +29,17 @@
     width:55%;
 }
 .shownHome{
-    display:block
+    display:flex;
+    
     visibility:visible;
     margin-left:auto;
     margin-right:auto;
     width:55%;
+    
+}
+#aboutMeDiv{
+ margin-left: 24em;   
+    
 }
 
 .shownResume{
@@ -59,7 +65,7 @@
     width:55%;
 }
 .mePic{
-    position:absolute;
+    
     left:0px;
     width:300px;
     
