@@ -20,7 +20,12 @@
     margin-right:auto;
     width:55%;
 }
-
+.hiddenClasses{
+    display:none;
+    visibility:hidden;
+       
+    
+}
 .hiddenContact{
     display:none;
     visibility:hidden;
@@ -41,6 +46,10 @@
  margin-left: 24em;   
     
 }
+#aboutMeDiv p{
+ font-size:18px;   
+    
+}
 
 .shownResume{
     display:block;
@@ -56,7 +65,17 @@
     margin-right:auto;
     width:55%;
 }
-
+.shownClasses{
+     
+    visibility:visible;
+    
+    display:block;
+    
+    visibility:visible;
+    margin-left:auto;
+    margin-right:auto;
+    width:55%;
+}
 .shownContact{
     display:block;
     visibility:visible;
@@ -64,9 +83,37 @@
     margin-right:auto;
     width:55%;
 }
-.mePic{
+#mePic{
     
     left:0px;
     width:300px;
     
 }
+#pdf {
+	width: 900px;
+	height: 800px;
+	margin: 2em auto;
+}
+#pdf p {
+   padding: 1em;
+}
+
+#pdf object {
+   display: block;
+   border: solid 1px #666;
+}
+#pleaseNoteP{
+   font-size:.8em;
+    
+}
+.link:hover{
+    color:blue;
+}
+p{
+ text-indent: 50px;   
+}
+img{
+    width:44%;
+    height: auto;
+}
+      
