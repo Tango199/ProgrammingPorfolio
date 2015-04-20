@@ -33,21 +33,27 @@
     margin-right:auto;
     width:55%;
 }
-.shownHome{
-    display:flex;
+.backGroundDiv{
+    background-color:darkgreen;
     
+};
+.shownHome{
+    display:inline-block;
+    background-color: white;
     visibility:visible;
     margin-left:auto;
-    margin-right:auto;
-    width:55%;
+    margin-right:;
+   
     
 }
 #aboutMeDiv{
  margin-left: 24em;   
+    background-color: white;
     
 }
 #aboutMeDiv p{
  font-size:18px;   
+    background-color: white;
     
 }
 
@@ -56,7 +62,7 @@
     visibility:visible;
     margin-left:auto;
     margin-right:auto;
-    width:55%;
+   background-color: white;
 }
 .shownPortfolio{
    display:block;
@@ -64,11 +70,12 @@
     margin-left:auto;
     margin-right:auto;
     width:55%;
+    background-color: white;
 }
 .shownClasses{
      
     visibility:visible;
-    
+    background-color: white;
     display:block;
     
     visibility:visible;
@@ -82,6 +89,7 @@
     margin-left:auto;
     margin-right:auto;
     width:55%;
+    background-color: white;
 }
 #mePic{
     
@@ -116,4 +124,7 @@ img{
     width:44%;
     height: auto;
 }
+#porfolioId a{
+    font-size:2em  ;
+};
       
